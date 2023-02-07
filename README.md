@@ -84,3 +84,6 @@ Here we decomposed a time series of US unemployment data.
 Now you can inspect the trend and seasonality of a data series. 
 By inspecting the noise component, you have an idea of the “goodness of fit” of the model, too. 
 By decomposing time series you can model each component and better predict the combined time series.
+
+---
+
